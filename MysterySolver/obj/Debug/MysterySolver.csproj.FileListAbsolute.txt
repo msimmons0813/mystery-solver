@@ -1,6 +1,0 @@
-c:\users\aurora\documents\visual studio 2015\Projects\MysterySolver\MysterySolver\bin\Debug\MysterySolver.exe.config
-c:\users\aurora\documents\visual studio 2015\Projects\MysterySolver\MysterySolver\bin\Debug\MysterySolver.exe
-c:\users\aurora\documents\visual studio 2015\Projects\MysterySolver\MysterySolver\bin\Debug\MysterySolver.pdb
-c:\users\aurora\documents\visual studio 2015\Projects\MysterySolver\MysterySolver\obj\Debug\MysterySolver.csprojResolveAssemblyReference.cache
-c:\users\aurora\documents\visual studio 2015\Projects\MysterySolver\MysterySolver\obj\Debug\MysterySolver.exe
-c:\users\aurora\documents\visual studio 2015\Projects\MysterySolver\MysterySolver\obj\Debug\MysterySolver.pdb
